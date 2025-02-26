@@ -1,1 +1,3 @@
-# CURRICULO
+# SOBRE
+
+Um jovem estudante de 27 anos de idade, apaixonado por tecnologia e por novos desafios, com foco na área de infraestrutura de TI/Segurança da Informação. Atualmente atuando como estagiário de infraestrutura de TI, prestando suporte/HepDesk para usuários finais, como criação e gestão de usuários e computadores na ferramenta Active Directory, busco sempre ser proativo e prestativo com os atendimento e comprimento dos SLAs, prezando sempre por uma boa comunicação, seja com os usuários, ou os colegas de equipe. Determinado a aprender e crescer profissionalmente, participo ativamente de cursos e eventos relacionados à minha área de atuação, mantendo-me atualizado sobre as últimas tendências e tecnologias. Além de aprender, também gosto de compartilhar conhecimento, através de fóruns de debates, grupos de estudo e compartilhamento de eventos tecnológico.
